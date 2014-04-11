@@ -8,3 +8,5 @@ Documentation associated with the emonhub system
 [Installation Guides](https://github.com/emonhub/emonhub-docs/blob/master/installation_guides.md)
 
 [Technical Documents](https://github.com/emonhub/emonhub-docs/blob/master/technical_documents.md)
+
+[Useful Links](https://github.com/emonhub/emonhub-docs/blob/master/useful_links.md)
