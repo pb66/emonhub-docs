@@ -1,4 +1,4 @@
-emonHub Documentation
+[emonHub Documentation](https://github.com/emonhub/emonhub-docs/blob/master/README.md)
 =====================
 
 Documentation associated with the emonhub system
