@@ -5,13 +5,13 @@ Useful emonHub related links
 
 [emonHub's GitHub repository](https://github.com/emonhub)
 
-![emonCMS Logo](/images/logos/emoncms_banner.png)
+![emonCMS Logo](https://github.com/emonhub/emonhub-docs/images/logos/emoncms/emoncms_banner.png)
 
 [The emonCMS website](http://emoncms.org/site/home)
 
 [emonCMS's GitHub repository](https://github.com/emoncms)
 
-![OpenEnergyMonitor Logo](/images/logos/oem/oem_small.png)
+![OpenEnergyMonitor Logo](images/logos/oem/oem_small.png)
 
 [The OpenEnergyMonitor website](http://openenergymonitor.org/emon/)
 
