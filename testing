@@ -1,0 +1,1 @@
+{{ https://raw.githubusercontent.com/emonhub/emonhub-docs/master/structure.md | markdownify }}
